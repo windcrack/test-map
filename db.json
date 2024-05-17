@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "marker-18-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "55.773434",
+          "37.493693"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "ООО «ЭТМ»",
+          "text": "Свинцово-кислотные аккумуляторы"
+        },
+        "clusterCaption": "ООО «ЭТМ»"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-18-1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "55.479437",
+          "37.565749"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "ООО «ЭТМ»",
+          "text": "Свинцово-кислотные аккумуляторы"
+        },
+        "clusterCaption": "ООО «ЭТМ»"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-893-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "55.708486",
+          "37.65664"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "Плеер – интернет магазин",
+          "text": "Свинцово-кислотные аккумуляторы, аккумуляторы для раций"
+        },
+        "clusterCaption": "Плеер – интернет магазин"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-892-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "55.497291",
+          "37.568417"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "Чип и Дип – интернет магазин",
+          "text": "Свинцово-кислотные аккумуляторы, аккумуляторы для раций"
+        },
+        "clusterCaption": "Чип и Дип – интернет магазин"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-891-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "60.010645",
+          "30.403813"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "Все инструменты – интернет-магазин",
+          "text": "Свинцово-кислотные аккумуляторы, аккумуляторы для раций"
+        },
+        "clusterCaption": "Все инструменты – интернет-магазин"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-890-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "55.737339",
+          "49.16679"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "Smart-Shop – интернет магазин",
+          "text": "Свинцово-кислотные аккумуляторы"
+        },
+        "clusterCaption": "Smart-Shop – интернет магазин"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-889-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "55.195102",
+          "61.382324"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "Торговый дом “Восход”",
+          "text": "Свинцово-кислотные аккумуляторы"
+        },
+        "clusterCaption": "Торговый дом “Восход”"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-888-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "56.341997",
+          "30.539656"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "ООО “Минимакс” – электротехническая компания",
+          "text": "Свинцово-кислотные аккумуляторы"
+        },
+        "clusterCaption": "ООО “Минимакс” – электротехническая компания"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-887-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "55.031902",
+          "82.942852"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "E2e4 – интернет-магазин",
+          "text": "Аккумуляторные батареи для ИБП и ОПС"
+        },
+        "clusterCaption": "E2e4 – интернет-магазин"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-886-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "59.892347",
+          "30.322534"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "ООО “Неватека” ",
+          "text": "Свинцово-кислотные аккумуляторы<br />\nКондиционеры"
+        },
+        "clusterCaption": "ООО “Неватека” "
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-885-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "54.777152",
+          "32.050668"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "Ситилинк – интернет-магазин",
+          "text": "Свинцово-кислотные аккумуляторы "
+        },
+        "clusterCaption": "Ситилинк – интернет-магазин"
+      },
+      "hintContent": ""
+    },
+    {
+      "type": "Feature",
+      "id": "marker-884-0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "56.320563",
+          "44.014125"
+        ]
+      },
+      "properties": {
+        "balloonContent": {
+          "title": "ООО “Мерлион” – дистрибьютор b2b",
+          "text": "Свинцово-кислотные аккумуляторы"
+        },
+        "clusterCaption": "ООО “Мерлион” – дистрибьютор b2b"
+      },
+      "hintContent": ""
+    }
+  ]
+}
