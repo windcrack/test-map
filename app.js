@@ -122,7 +122,7 @@ function mapWhereBuy() {
 
     objectManager.add(mapData[0]);
 
-    // Временно пока делаем просто скролл
+    // Скролл до карты и открытие балуна
     function scrollToMap() {
       const links = document.querySelectorAll("button");
       const map = document.querySelector("#map-contacts");
