@@ -101,6 +101,7 @@ function mapWhereBuy() {
         geoObject.properties.balloonContentBody = `
                            <div class="balloon">
                                 <h2 class="balloon__title">${geoObject.properties.balloonContent.title}</h2>
+                                <p class="balloon__sub">${geoObject.properties.balloonContent.text}</p>
                            </div>`;
       });
       // Оповещаем балун, что нужно применить новые данные.
